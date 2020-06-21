@@ -1,0 +1,132 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family:  sans-serif;
+}
+
+#header {
+	height: 10vh;
+}
+
+#header img {
+	padding-top: 1px;
+	margin-top: 2vh;
+}
+
+#header h1 {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+#crambs {
+	font-size: 15px;
+	background-color: #92a8d1;
+	height: 25px;
+	padding-top: 7px;
+	color: white;
+}
+
+#crambs span {
+	margin-left: 10px;
+}
+
+#content h2 {
+	margin-left: 20px;
+}
+
+#content h3 {
+	margin-left: 20px;
+}
+
+.product_item {
+	margin: 10px;
+	display: inline-block;
+	border: 1px solid gray;
+	padding: 5px;
+	height: 100px;
+	width: 150px;
+	text-align: center;
+	float: left;
+}
+.product_item span {
+	display: block;
+}
+
+.product_item span.name {
+	font-size: 16px;
+}
+
+#crambs span.admin {
+	float: right;
+	margin-right: 10px;
+}
+
+.incluir_button {
+	position: fixed;
+	bottom: 4px;
+	right: 4px;
+	background-color: #f7786b;
+	padding: 10px 30px;
+	display: inline-block;
+	color: white;
+	float: right;
+}
+
+.table-list {
+	margin: 2px;
+	width: 99%;
+}
+
+.table-list th {
+	background-color: #034f84;
+	border: 1px solid lightgray;
+	color: white;
+	border: 0px;
+	padding: 3px;
+}
+
+.table-list td {
+	background-color: #c2d4dd;
+	padding: 3px;
+	border: 1px solid lightgray;
+}
+
+#langs {
+	position: fixed;
+	top: 4px;
+	right: 4px;
+	display: inline-block;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#langs li {
+	display: inline-block;
+	min-width: 30px;
+	min-height: 20px;
+	padding: 2px;
+	text-align: center;
+	background-color: white;
+}
+
+#langs li.selected {
+	background-color: lightgray;
+}
+
+form div {
+	padding: 10px;
+}
+
+form div label {
+	padding: 10px;
+	display: inline-block;
+	width: 25%;
+	text-align: right;
+}
+
+form div input {
+	padding: 10px;
+	display: inline-block;
+	width: 60%;
+}
