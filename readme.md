@@ -1,4 +1,4 @@
-# simple-shop
+# hoplon-shop
 
 Solução para o [desafio](challenge.md).
 
