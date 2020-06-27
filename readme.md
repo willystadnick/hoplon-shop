@@ -1,6 +1,6 @@
-# Hoplon | Desenvolvedor Web Backend
+# simple-shop
 
-Solução apresentada para [Hoplon | Desenvolvedor Web Backend](challenge.md).
+Solução para o [desafio](challenge.md).
 
 ## Requisitos
 
@@ -34,4 +34,5 @@ Observação: Substituir a porta (8000) caso já esteja sendo utilizada.
 
 ## Autor
 
-[Willy Stadnick](willy.stadnick@gmail.com)
+| [<img src="https://avatars2.githubusercontent.com/u/1824706?s=120&v=4" width=120><br><sub>@willystadnick</sub>](https://github.com/willystadnick) |
+| :---: |

@@ -14,7 +14,7 @@ include_once(__DIR__ . '/../lib/language.php');
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>E-Store Hoplon</title>
+    <title>E-Store</title>
 
     <link rel="shortcut icon" href="http://www.hoplon.com/site/img/img-hoplon-brand.png">
     <link rel="stylesheet" type="text/css" href="frontend/style.css">

@@ -1,4 +1,4 @@
-# Hoplon | Desenvolvedor Web Backend
+# Desenvolvedor Web Backend
 
 Implementar uma loja web com alguns produtos para vender. Um produto tem um nome, preço, um período de inicio e fim para uma promoção e um preço para quando estiver em promoção.
 
@@ -34,4 +34,4 @@ Você pode fazer o download da aplicação no seguinte link: https://drive.googl
 
 Quando terminado a prova, favor zipar os arquivos e nos encaminhar pelo sistema.
 
-[readme.txt](readme.txt).
+[challenge.txt](challenge.txt).
